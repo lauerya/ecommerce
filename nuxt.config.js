@@ -6,6 +6,10 @@ export default {
     port: 3001,
     host: '0.0.0.0'
   },
+  target: 'static',
+  router: {
+    base: '/storefront/'
+  },
   head: {
     title: 'Shopify | Vue Storefront Next',
     meta: [

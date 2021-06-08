@@ -6587,7 +6587,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "3bf63da7"
+  "7cc3c116"
   
 )
 
@@ -9101,7 +9101,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "263b8df2"
+  "95eef856"
   
 )
 
@@ -9207,7 +9207,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "024d0a87"
+  "f0162756"
   
 )
 
@@ -9378,7 +9378,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "790dd567"
+  "5b491b96"
   
 )
 
@@ -9980,11 +9980,11 @@ const globalPlugin = context => {
   };
 };
 
-const staticPath = "/Users/ryanlauer/Documents/GitHub/storefront/storefront/.nuxt/static-json";
+const staticPath = "/Users/ryanlauer/Documents/GitHub/storefront/.nuxt/static-json";
 const staticCache = {};
 
 function writeFile(key, value) {
-  if (true) return;
+  if (false) {}
   const {
     writeFileSync
   } =  false ? undefined : __webpack_require__(214);
@@ -10464,7 +10464,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "b1c4f53a"
+  "0247569e"
   
 )
 
@@ -10727,7 +10727,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "7bce8379"
+  "370529c7"
   
 )
 
@@ -10932,7 +10932,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "5383f047"
+  "a97a80d6"
   
 )
 
@@ -11041,7 +11041,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "4e878894"
+  "09be2ee2"
   
 )
 
@@ -12130,7 +12130,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "725df479"
+  "6bc67872"
   
 )
 
@@ -12184,7 +12184,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "742ad809"
+  "2f617e57"
   
 )
 
@@ -12265,7 +12265,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "15547755"
+  "5ee9c4ba"
   
 )
 
@@ -12420,7 +12420,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "246f9d87"
+  "90bb1556"
   
 )
 
@@ -12780,7 +12780,7 @@ if(content.locals) module.exports = content.locals;
 // add CSS to SSR context
 var add = __webpack_require__(4).default
 module.exports.__inject__ = function (context) {
-  add("3afec07d", content, true, context)
+  add("6c3b7ccc", content, true, context)
 };
 
 /***/ }),
@@ -13302,7 +13302,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "6de9b1b2"
+  "71916300"
   
 )
 
@@ -13601,7 +13601,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "4ba174cc"
+  "e78c8430"
   
 )
 
@@ -13671,7 +13671,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "61bc9ab2"
+  "3269e675"
   
 )
 
@@ -13942,7 +13942,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "e1c03b52"
+  "4a5688a5"
   
 )
 
@@ -14490,9 +14490,9 @@ module.exports = ___CSS_LOADER_EXPORT___;
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_e13035f2_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(71);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_e13035f2_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_e13035f2_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_e13035f2_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_e13035f2_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_bc3b0b1c_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(71);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_bc3b0b1c_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_bc3b0b1c_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_bc3b0b1c_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_vue_loader_lib_index_js_vue_loader_options_AppHeader_vue_vue_type_style_index_0_id_bc3b0b1c_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
 
 
 /***/ }),
@@ -14503,7 +14503,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(3);
 var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(false);
 // Module
-___CSS_LOADER_EXPORT___.push([module.i, "@media (min-width:1024px){.smartphone-only[data-v-e13035f2]{display:none!important}}@media (max-width:1023px){.desktop-only[data-v-e13035f2]{display:none!important}}.sf-header[data-v-e13035f2]{--header-padding:var(--spacer-sm)}@media (min-width:1024px){.sf-header[data-v-e13035f2]{--header-padding:0}}.sf-header__logo-image[data-v-e13035f2]{height:100%}.nav-item[data-v-e13035f2]{--header-navigation-item-margin:0 var(--spacer-base)}", ""]);
+___CSS_LOADER_EXPORT___.push([module.i, "@media (min-width:1024px){.smartphone-only[data-v-bc3b0b1c]{display:none!important}}@media (max-width:1023px){.desktop-only[data-v-bc3b0b1c]{display:none!important}}.sf-header[data-v-bc3b0b1c]{--header-padding:var(--spacer-sm)}@media (min-width:1024px){.sf-header[data-v-bc3b0b1c]{--header-padding:0}}.sf-header__logo-image[data-v-bc3b0b1c]{height:100%}.nav-item[data-v-bc3b0b1c]{--header-navigation-item-margin:0 var(--spacer-base)}", ""]);
 // Exports
 module.exports = ___CSS_LOADER_EXPORT___;
 
@@ -15382,7 +15382,7 @@ async function setContext(app, context) {
   // If context not defined, create it
   if (!app.context) {
     app.context = {
-      isStatic: false,
+      isStatic: true,
       isDev: false,
       isHMR: false,
       app,
@@ -15908,37 +15908,37 @@ var external_vue_router_default = /*#__PURE__*/__webpack_require__.n(external_vu
 
 
 
-const _2478a200 = () => interopDefault(__webpack_require__.e(/* import() | pages/Category */ 2).then(__webpack_require__.bind(null, 377)));
+const _6a66826e = () => interopDefault(__webpack_require__.e(/* import() | pages/Category */ 2).then(__webpack_require__.bind(null, 377)));
 
-const _623fce48 = () => interopDefault(__webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 379)));
+const _0893eb11 = () => interopDefault(__webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 379)));
 
-const _22608f94 = () => interopDefault(__webpack_require__.e(/* import() */ 14).then(__webpack_require__.bind(null, 372)));
+const _1a93d35d = () => interopDefault(__webpack_require__.e(/* import() */ 14).then(__webpack_require__.bind(null, 372)));
 
-const _7de03cc2 = () => interopDefault(__webpack_require__.e(/* import() */ 15).then(__webpack_require__.bind(null, 373)));
+const _8d79b530 = () => interopDefault(__webpack_require__.e(/* import() */ 15).then(__webpack_require__.bind(null, 373)));
 
-const _696b9965 = () => interopDefault(__webpack_require__.e(/* import() */ 16).then(__webpack_require__.bind(null, 374)));
+const _77a0cebc = () => interopDefault(__webpack_require__.e(/* import() */ 16).then(__webpack_require__.bind(null, 374)));
 
-const _52f9650c = () => interopDefault(__webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 375)));
+const _612e9a63 = () => interopDefault(__webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 375)));
 
-const _10434661 = () => interopDefault(__webpack_require__.e(/* import() */ 12).then(__webpack_require__.bind(null, 378)));
+const _0caf2faa = () => interopDefault(__webpack_require__.e(/* import() */ 12).then(__webpack_require__.bind(null, 378)));
 
-const _20d440cf = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount */ 3).then(__webpack_require__.bind(null, 380)));
+const _4503bd26 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount */ 3).then(__webpack_require__.bind(null, 380)));
 
-const _70b30c52 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/BillingDetails */ 4).then(__webpack_require__.bind(null, 324)));
+const _2fa1e4a0 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/BillingDetails */ 4).then(__webpack_require__.bind(null, 324)));
 
-const _1eb90f96 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/LoyaltyCard */ 5).then(__webpack_require__.bind(null, 314)));
+const _0bd47d26 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/LoyaltyCard */ 5).then(__webpack_require__.bind(null, 314)));
 
-const _1446b915 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/MyNewsletter */ 6).then(__webpack_require__.bind(null, 326)));
+const _b6ff7bc4 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/MyNewsletter */ 6).then(__webpack_require__.bind(null, 326)));
 
-const _36ce7ffd = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/MyProfile */ 7).then(__webpack_require__.bind(null, 325)));
+const _e6e888d8 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/MyProfile */ 7).then(__webpack_require__.bind(null, 325)));
 
-const _7e51616f = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/MyReviews */ 8).then(__webpack_require__.bind(null, 315)));
+const _57e2c5f4 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/MyReviews */ 8).then(__webpack_require__.bind(null, 315)));
 
-const _20e84b14 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/OrderHistory */ 9).then(__webpack_require__.bind(null, 322)));
+const _7fc5637f = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/OrderHistory */ 9).then(__webpack_require__.bind(null, 322)));
 
-const _45f7ae58 = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/ShippingDetails */ 10).then(__webpack_require__.bind(null, 323)));
+const _7476172b = () => interopDefault(__webpack_require__.e(/* import() | pages/MyAccount/ShippingDetails */ 10).then(__webpack_require__.bind(null, 323)));
 
-const _54cdb95d = () => interopDefault(__webpack_require__.e(/* import() | pages/Product */ 11).then(__webpack_require__.bind(null, 381)));
+const _32e34118 = () => interopDefault(__webpack_require__.e(/* import() | pages/Product */ 11).then(__webpack_require__.bind(null, 381)));
 
 const emptyFn = () => {};
 
@@ -15951,209 +15951,209 @@ const routerOptions = {
   scrollBehavior: router_scrollBehavior,
   routes: [{
     path: "/Category",
-    component: _2478a200,
+    component: _6a66826e,
     name: "Category___en"
   }, {
     path: "/checkout",
-    component: _623fce48,
+    component: _0893eb11,
     name: "checkout___en",
     children: [{
       path: "billing",
-      component: _22608f94,
+      component: _1a93d35d,
       name: "billing___en"
     }, {
       path: "payment",
-      component: _7de03cc2,
+      component: _8d79b530,
       name: "payment___en"
     }, {
       path: "shipping",
-      component: _696b9965,
+      component: _77a0cebc,
       name: "shipping___en"
     }, {
       path: "thank-you",
-      component: _52f9650c,
+      component: _612e9a63,
       name: "thank-you___en"
     }]
   }, {
     path: "/Checkout",
-    component: _623fce48,
+    component: _0893eb11,
     name: "Checkout___en",
     children: [{
       path: "Billing",
-      component: _22608f94,
+      component: _1a93d35d,
       name: "Checkout-Billing___en"
     }, {
       path: "Payment",
-      component: _7de03cc2,
+      component: _8d79b530,
       name: "Checkout-Payment___en"
     }, {
       path: "Shipping",
-      component: _696b9965,
+      component: _77a0cebc,
       name: "Checkout-Shipping___en"
     }, {
       path: "ThankYou",
-      component: _52f9650c,
+      component: _612e9a63,
       name: "Checkout-ThankYou___en"
     }]
   }, {
     path: "/de",
-    component: _10434661,
+    component: _0caf2faa,
     name: "home___de"
   }, {
     path: "/Home",
-    component: _10434661,
+    component: _0caf2faa,
     name: "Home___en"
   }, {
     path: "/MyAccount",
-    component: _20d440cf,
+    component: _4503bd26,
     name: "MyAccount___en",
     children: [{
       path: "BillingDetails",
-      component: _70b30c52,
+      component: _2fa1e4a0,
       name: "MyAccount-BillingDetails___en"
     }, {
       path: "LoyaltyCard",
-      component: _1eb90f96,
+      component: _0bd47d26,
       name: "MyAccount-LoyaltyCard___en"
     }, {
       path: "MyNewsletter",
-      component: _1446b915,
+      component: _b6ff7bc4,
       name: "MyAccount-MyNewsletter___en"
     }, {
       path: "MyProfile",
-      component: _36ce7ffd,
+      component: _e6e888d8,
       name: "MyAccount-MyProfile___en"
     }, {
       path: "MyReviews",
-      component: _7e51616f,
+      component: _57e2c5f4,
       name: "MyAccount-MyReviews___en"
     }, {
       path: "OrderHistory",
-      component: _20e84b14,
+      component: _7fc5637f,
       name: "MyAccount-OrderHistory___en"
     }, {
       path: "ShippingDetails",
-      component: _45f7ae58,
+      component: _7476172b,
       name: "MyAccount-ShippingDetails___en"
     }]
   }, {
     path: "/Product",
-    component: _54cdb95d,
+    component: _32e34118,
     name: "Product___en"
   }, {
     path: "/de/Category",
-    component: _2478a200,
+    component: _6a66826e,
     name: "Category___de"
   }, {
     path: "/de/checkout",
-    component: _623fce48,
+    component: _0893eb11,
     name: "checkout___de",
     children: [{
       path: "billing",
-      component: _22608f94,
+      component: _1a93d35d,
       name: "billing___de"
     }, {
       path: "payment",
-      component: _7de03cc2,
+      component: _8d79b530,
       name: "payment___de"
     }, {
       path: "shipping",
-      component: _696b9965,
+      component: _77a0cebc,
       name: "shipping___de"
     }, {
       path: "thank-you",
-      component: _52f9650c,
+      component: _612e9a63,
       name: "thank-you___de"
     }]
   }, {
     path: "/de/Checkout",
-    component: _623fce48,
+    component: _0893eb11,
     name: "Checkout___de",
     children: [{
       path: "Billing",
-      component: _22608f94,
+      component: _1a93d35d,
       name: "Checkout-Billing___de"
     }, {
       path: "Payment",
-      component: _7de03cc2,
+      component: _8d79b530,
       name: "Checkout-Payment___de"
     }, {
       path: "Shipping",
-      component: _696b9965,
+      component: _77a0cebc,
       name: "Checkout-Shipping___de"
     }, {
       path: "ThankYou",
-      component: _52f9650c,
+      component: _612e9a63,
       name: "Checkout-ThankYou___de"
     }]
   }, {
     path: "/de/Home",
-    component: _10434661,
+    component: _0caf2faa,
     name: "Home___de"
   }, {
     path: "/de/MyAccount",
-    component: _20d440cf,
+    component: _4503bd26,
     name: "MyAccount___de",
     children: [{
       path: "BillingDetails",
-      component: _70b30c52,
+      component: _2fa1e4a0,
       name: "MyAccount-BillingDetails___de"
     }, {
       path: "LoyaltyCard",
-      component: _1eb90f96,
+      component: _0bd47d26,
       name: "MyAccount-LoyaltyCard___de"
     }, {
       path: "MyNewsletter",
-      component: _1446b915,
+      component: _b6ff7bc4,
       name: "MyAccount-MyNewsletter___de"
     }, {
       path: "MyProfile",
-      component: _36ce7ffd,
+      component: _e6e888d8,
       name: "MyAccount-MyProfile___de"
     }, {
       path: "MyReviews",
-      component: _7e51616f,
+      component: _57e2c5f4,
       name: "MyAccount-MyReviews___de"
     }, {
       path: "OrderHistory",
-      component: _20e84b14,
+      component: _7fc5637f,
       name: "MyAccount-OrderHistory___de"
     }, {
       path: "ShippingDetails",
-      component: _45f7ae58,
+      component: _7476172b,
       name: "MyAccount-ShippingDetails___de"
     }]
   }, {
     path: "/de/Product",
-    component: _54cdb95d,
+    component: _32e34118,
     name: "Product___de"
   }, {
     path: "/de/my-account/:pageName?",
-    component: _20d440cf,
+    component: _4503bd26,
     name: "my-account___de"
   }, {
     path: "/de/p/:id/:slug",
-    component: _54cdb95d,
+    component: _32e34118,
     name: "product___de"
   }, {
     path: "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    component: _2478a200,
+    component: _6a66826e,
     name: "category___de"
   }, {
     path: "/my-account/:pageName?",
-    component: _20d440cf,
+    component: _4503bd26,
     name: "my-account___en"
   }, {
     path: "/p/:id/:slug",
-    component: _54cdb95d,
+    component: _32e34118,
     name: "product___en"
   }, {
     path: "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    component: _2478a200,
+    component: _6a66826e,
     name: "category___en"
   }, {
     path: "/",
-    component: _10434661,
+    component: _0caf2faa,
     name: "home___en"
   }],
   fallback: false
@@ -16342,7 +16342,7 @@ var error_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   "457babc8",
-  "bba3880e"
+  "a891452a"
   
 )
 
@@ -16646,7 +16646,7 @@ var nuxt_loading_component = Object(componentNormalizer["a" /* default */])(
   false,
   nuxt_loading_injectStyles,
   null,
-  "323a2c64"
+  "49f3ac54"
   
 )
 
@@ -16658,12 +16658,12 @@ var accountvue_type_template_id_36cb8026_staticRenderFns = []
 
 // CONCATENATED MODULE: ./layouts/account.vue?vue&type=template&id=36cb8026&
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/AppHeader.vue?vue&type=template&id=e13035f2&scoped=true&
-var AppHeadervue_type_template_id_e13035f2_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('SfHeader',{staticClass:"sf-header--has-mobile-search",attrs:{"data-cy":"app-header","searchValue":_vm.term,"cartItemsQty":_vm.cartTotalItems,"accountIcon":_vm.accountIcon},on:{"click:cart":_vm.toggleCartSidebar,"click:wishlist":_vm.toggleWishlistSidebar,"click:account":_vm.handleAccountClick,"enter:search":_vm.changeSearchTerm,"change:search":function (p) { return _vm.term = p; }},scopedSlots:_vm._u([{key:"logo",fn:function(){return [_c('nuxt-link',{staticClass:"sf-header__logo",attrs:{"data-cy":"app-header-url_logo","to":_vm.localePath('/')}},[_c('img',{staticClass:"sf-header__logo-image",attrs:{"src":"/icon.png","alt":"Vue Storefront Next","width":"34","height":"35"}})])]},proxy:true},(_vm.categories.length > 0)?{key:"navigation",fn:function(){return _vm._l((_vm.categories),function(cat){return _c('SfHeaderNavigationItem',{key:cat.id,staticClass:"nav-item",attrs:{"data-cy":'app-header-url_' + cat.handle,"label":cat.title,"link":_vm.localePath('/c/' + cat.handle )}})})},proxy:true}:null,{key:"aside",fn:function(){return [_c('LocaleSelector',{staticClass:"smartphone-only"})]},proxy:true}],null,true)})}
-var AppHeadervue_type_template_id_e13035f2_scoped_true_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/AppHeader.vue?vue&type=template&id=bc3b0b1c&scoped=true&
+var AppHeadervue_type_template_id_bc3b0b1c_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('SfHeader',{staticClass:"sf-header--has-mobile-search",attrs:{"data-cy":"app-header","searchValue":_vm.term,"cartItemsQty":_vm.cartTotalItems,"accountIcon":_vm.accountIcon},on:{"click:cart":_vm.toggleCartSidebar,"click:wishlist":_vm.toggleWishlistSidebar,"click:account":_vm.handleAccountClick,"enter:search":_vm.changeSearchTerm,"change:search":function (p) { return _vm.term = p; }},scopedSlots:_vm._u([{key:"logo",fn:function(){return [_c('nuxt-link',{staticClass:"sf-header__logo",attrs:{"data-cy":"app-header-url_logo","to":_vm.localePath('/')}},[_c('img',{staticClass:"sf-header__logo-image",attrs:{"src":"/icon.png","alt":"Vue Storefront Next","width":"34","height":"35"}})])]},proxy:true},(_vm.categories.length > 0)?{key:"navigation",fn:function(){return _vm._l((_vm.categories),function(cat){return _c('SfHeaderNavigationItem',{key:cat.id,staticClass:"nav-item",attrs:{"data-cy":'app-header-url_' + cat.handle,"label":cat.title,"link":_vm.localePath('/c/' + cat.handle )}})})},proxy:true}:null,{key:"aside",fn:function(){return [_c('LocaleSelector',{staticClass:"smartphone-only"})]},proxy:true}],null,true)})}
+var AppHeadervue_type_template_id_bc3b0b1c_scoped_true_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/AppHeader.vue?vue&type=template&id=e13035f2&scoped=true&
+// CONCATENATED MODULE: ./components/AppHeader.vue?vue&type=template&id=bc3b0b1c&scoped=true&
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./node_modules/@storefront-ui/vue/src/components/organisms/SfHeader/SfHeader.vue?vue&type=template&id=bb24253a&
 var SfHeadervue_type_template_id_bb24253a_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"sf-header",class:{ 'is-sticky': _vm.sticky, 'is-hidden': _vm.hidden }},[_vm._ssrNode("<div class=\"sf-header__wrapper\">","</div>",[_vm._ssrNode("<header class=\"sf-header__header\">","</header>",[_vm._t("logo",function(){return [_c('SfLink',{attrs:{"link":"/"}},[(_vm.logo)?_c('SfImage',{staticClass:"sf-header__logo",attrs:{"src":_vm.logo,"alt":_vm.title}}):_c('h1',{staticClass:"sf-header__title"},[_vm._v(_vm._s(_vm.title))])],1)]},null,{ logo: _vm.logo, title: _vm.title }),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"sf-header__aside\">","</div>",[_vm._t("aside")],2),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"sf-header__actions\">","</div>",[_vm._ssrNode("<nav"+(_vm._ssrClass("sf-header__navigation",{ 'is-visible': _vm.isNavVisible }))+">","</nav>",[_vm._t("navigation")],2),_vm._ssrNode(" "),_vm._t("search",function(){return [_c('SfSearchBar',{staticClass:"sf-header__search",attrs:{"value":_vm.searchValue,"placeholder":_vm.searchPlaceholder,"aria-label":"Search"},on:{"input":function($event){return _vm.$emit('change:search', $event)},"enter":function($event){return _vm.$emit('enter:search', $event)}}})]},null,{ searchValue: _vm.searchValue, searchPlaceholder: _vm.searchPlaceholder }),_vm._ssrNode(" "),_vm._t("header-icons",function(){return [_c('div',{staticClass:"sf-header__icons"},[(_vm.accountIcon)?_c('SfButton',{staticClass:"sf-button--pure sf-header__action",attrs:{"data-testid":"accountIcon"},on:{"click":function($event){return _vm.$emit('click:account')}}},[_c('SfIcon',{class:{
@@ -16761,7 +16761,7 @@ var SfHeaderNavigationItem_component = Object(componentNormalizer["a" /* default
   false,
   null,
   null,
-  "707fc000"
+  "5d856c64"
   
 )
 
@@ -16822,7 +16822,7 @@ var SfHeaderNavigation_component = Object(componentNormalizer["a" /* default */]
   false,
   null,
   null,
-  "2efc24cd"
+  "8b7b34ca"
   
 )
 
@@ -16935,7 +16935,7 @@ var SfSearchBar_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfSearchBar_injectStyles,
   null,
-  "7ffd6a44"
+  "8751e8dc"
   
 )
 
@@ -17288,7 +17288,7 @@ var SfHeader_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfHeader_injectStyles,
   null,
-  "6aef8f74"
+  "2dd06c14"
   
 )
 
@@ -17497,7 +17497,7 @@ var SfBottomModal_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfBottomModal_injectStyles,
   null,
-  "585468b2"
+  "bd7e9a00"
   
 )
 
@@ -17583,7 +17583,7 @@ var LocaleSelector_component = Object(componentNormalizer["a" /* default */])(
   false,
   LocaleSelector_injectStyles,
   "70fd511f",
-  "27478f09"
+  "4580157b"
   
 )
 
@@ -17715,12 +17715,12 @@ if (style0.__inject__) style0.__inject__(context)
 
 var AppHeader_component = Object(componentNormalizer["a" /* default */])(
   components_AppHeadervue_type_script_lang_js_,
-  AppHeadervue_type_template_id_e13035f2_scoped_true_render,
-  AppHeadervue_type_template_id_e13035f2_scoped_true_staticRenderFns,
+  AppHeadervue_type_template_id_bc3b0b1c_scoped_true_render,
+  AppHeadervue_type_template_id_bc3b0b1c_scoped_true_staticRenderFns,
   false,
   AppHeader_injectStyles,
-  "e13035f2",
-  "687fa40e"
+  "bc3b0b1c",
+  "e8354348"
   
 )
 
@@ -17856,7 +17856,7 @@ var SfBottomNavigationItem_component = Object(componentNormalizer["a" /* default
   false,
   null,
   null,
-  "473de768"
+  "5e46cc9a"
   
 )
 
@@ -17895,7 +17895,7 @@ var SfBottomNavigation_component = Object(componentNormalizer["a" /* default */]
   false,
   SfBottomNavigation_injectStyles,
   null,
-  "36d496c6"
+  "7bca50d8"
   
 )
 
@@ -17985,7 +17985,7 @@ var BottomNavigation_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "67f45f62"
+  "3e368241"
   
 )
 
@@ -18048,7 +18048,7 @@ var SfTopBar_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfTopBar_injectStyles,
   null,
-  "7f72f134"
+  "238ebb34"
   
 )
 
@@ -18100,7 +18100,7 @@ var TopBar_component = Object(componentNormalizer["a" /* default */])(
   false,
   TopBar_injectStyles,
   "88f71bb2",
-  "7178e6ae"
+  "65cfff20"
   
 )
 
@@ -18336,7 +18336,7 @@ var SfCollectedProduct_component = Object(componentNormalizer["a" /* default */]
   false,
   SfCollectedProduct_injectStyles,
   null,
-  "62522b66"
+  "24cf2798"
   
 )
 
@@ -18528,7 +18528,7 @@ var CartSidebar_component = Object(componentNormalizer["a" /* default */])(
   false,
   CartSidebar_injectStyles,
   "68dee7e2",
-  "20ef6b1c"
+  "01cfc9ea"
   
 )
 
@@ -18781,7 +18781,7 @@ var SfModal_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfModal_injectStyles,
   null,
-  "c61bb4f0"
+  "169e1654"
   
 )
 
@@ -19059,7 +19059,7 @@ var LoginModal_component = Object(componentNormalizer["a" /* default */])(
   false,
   LoginModal_injectStyles,
   "751ebfb8",
-  "fa015418"
+  "675e3534"
   
 )
 
@@ -19114,7 +19114,7 @@ var account_component = Object(componentNormalizer["a" /* default */])(
   false,
   account_injectStyles,
   null,
-  "f14e3144"
+  "531f7450"
   
 )
 
@@ -19217,7 +19217,7 @@ var SfFooterColumn_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "04fefecf"
+  "cf9c52c6"
   
 )
 
@@ -19322,7 +19322,7 @@ var SfFooter_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfFooter_injectStyles,
   null,
-  "3e1be806"
+  "bd37c858"
   
 )
 
@@ -19434,7 +19434,7 @@ var AppFooter_component = Object(componentNormalizer["a" /* default */])(
   false,
   AppFooter_injectStyles,
   null,
-  "474d401c"
+  "6ab2fa6a"
   
 )
 
@@ -19636,7 +19636,7 @@ var WishlistSidebar_component = Object(componentNormalizer["a" /* default */])(
   false,
   WishlistSidebar_injectStyles,
   "8e483e9a",
-  "0d8bd952"
+  "bbdb49b6"
   
 )
 
@@ -19818,7 +19818,7 @@ var SfNotification_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfNotification_injectStyles,
   null,
-  "e28976dc"
+  "4dbe3360"
   
 )
 
@@ -19884,7 +19884,7 @@ var Notification_component = Object(componentNormalizer["a" /* default */])(
   false,
   Notification_injectStyles,
   "46e41682",
-  "5c7e589b"
+  "d0ac58e6"
   
 )
 
@@ -19960,7 +19960,7 @@ var default_component = Object(componentNormalizer["a" /* default */])(
   false,
   default_injectStyles,
   null,
-  "39ad0972"
+  "05739664"
   
 )
 
@@ -20048,6 +20048,10 @@ const layouts = {
 
     isFetching() {
       return this.nbFetching > 0;
+    },
+
+    isPreview() {
+      return Boolean(this.$options.previewData);
     }
 
   },
@@ -20373,7 +20377,7 @@ const options_options = {
   defaultLocaleRouteNameSuffix: "default",
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "/Users/ryanlauer/Documents/GitHub/storefront/storefront/lang",
+  langDir: "/Users/ryanlauer/Documents/GitHub/storefront/lang",
   rootRedirect: null,
   detectBrowserLanguage: {
     "alwaysRedirect": false,
@@ -21815,7 +21819,9 @@ const getLocaleFromRoute = createLocaleFromRouteGetter(options_options.localeCod
 
   const getRedirectPathForLocale = (route, locale) => {
     // Redirects are ignored if it is a nuxt generate.
-    if (false) {}
+    if (true) {
+      return '';
+    }
 
     if (!locale || app.i18n.differentDomains || options_options.strategy === Constants.STRATEGIES.NO_PREFIX) {
       return '';
@@ -21925,7 +21931,9 @@ const getLocaleFromRoute = createLocaleFromRouteGetter(options_options.localeCod
 
   const doDetectBrowserLanguage = route => {
     // Browser detection is ignored if it is a nuxt generate.
-    if (false) {}
+    if (true) {
+      return '';
+    }
 
     if (options_options.strategy !== Constants.STRATEGIES.NO_PREFIX) {
       if (onlyOnRoot) {
@@ -22109,12 +22117,12 @@ const mapConfigToSetupObject = ({
   };
 };
 const SP_TOKEN_COOKIE_NAME = 'vsf-shopify-token';
-// CONCATENATED MODULE: ./.nuxt/nuxt.plugin.3d84ce67.js
+// CONCATENATED MODULE: ./.nuxt/nuxt.plugin.29152ebe.js
 
 
-const nuxt_plugin_3d84ce67_moduleOptions = JSON.parse('{"i18n":{"useNuxtI18nConfig":true},"locale":"en","currency":"USD","country":"US","acceptLanguage":["en","de"],"countries":[{"name":"US","label":"United States"},{"name":"AT","label":"Austria"},{"name":"DE","label":"Germany"},{"name":"NL","label":"Netherlands"}],"currencies":[{"name":"EUR","label":"Euro"},{"name":"USD","label":"Dollar"}],"locales":[{"name":"en","label":"English"},{"name":"de","label":"German"}]}'); // eslint-disable-next-line @typescript-eslint/no-unused-vars,no-unused-vars
+const nuxt_plugin_29152ebe_moduleOptions = JSON.parse('{"i18n":{"useNuxtI18nConfig":true},"locale":"en","currency":"USD","country":"US","acceptLanguage":["en","de"],"countries":[{"name":"US","label":"United States"},{"name":"AT","label":"Austria"},{"name":"DE","label":"Germany"},{"name":"NL","label":"Netherlands"}],"currencies":[{"name":"EUR","label":"Euro"},{"name":"USD","label":"Dollar"}],"locales":[{"name":"en","label":"English"},{"name":"de","label":"German"}]}'); // eslint-disable-next-line @typescript-eslint/no-unused-vars,no-unused-vars
 
-/* harmony default export */ var nuxt_plugin_3d84ce67 = (Object(lib_index_es["e" /* integrationPlugin */])(({
+/* harmony default export */ var nuxt_plugin_29152ebe = (Object(lib_index_es["e" /* integrationPlugin */])(({
   app,
   integration
 }) => {
@@ -22137,7 +22145,7 @@ const nuxt_plugin_3d84ce67_moduleOptions = JSON.parse('{"i18n":{"useNuxtI18nConf
     return app.$cookies.get(SP_TOKEN_COOKIE_NAME);
   };
 
-  integration.configure('shopify', { ...nuxt_plugin_3d84ce67_moduleOptions,
+  integration.configure('shopify', { ...nuxt_plugin_29152ebe_moduleOptions,
     app,
     additionalProperties: {
       auth: {
@@ -22160,7 +22168,7 @@ var composition_api = __webpack_require__(15);
 
 
 /* harmony default export */ var composition_api_plugin = (composition_api["globalPlugin"]);
-// CONCATENATED MODULE: ./.nuxt/plugins.logger.4cc80448.js
+// CONCATENATED MODULE: ./.nuxt/plugins.logger.3df2611f.js
 
 
 const loggerPlugin = app => {
@@ -22172,8 +22180,8 @@ const loggerPlugin = app => {
   Object(lib_index_es["g" /* registerLogger */])(customLogger || args, verbosity || 'error');
 };
 
-/* harmony default export */ var plugins_logger_4cc80448 = (loggerPlugin);
-// CONCATENATED MODULE: ./.nuxt/plugins.ssr.47a29738.js
+/* harmony default export */ var plugins_logger_3df2611f = (loggerPlugin);
+// CONCATENATED MODULE: ./.nuxt/plugins.ssr.62aa5eed.js
 
 
 
@@ -22209,8 +22217,8 @@ const ssrPlugin = () => {
   });
 };
 
-/* harmony default export */ var plugins_ssr_47a29738 = (ssrPlugin);
-// CONCATENATED MODULE: ./.nuxt/plugins.context.3cf04427.js
+/* harmony default export */ var plugins_ssr_62aa5eed = (ssrPlugin);
+// CONCATENATED MODULE: ./.nuxt/plugins.context.71118230.js
 
 
 
@@ -22248,7 +22256,7 @@ const contextPlugin = (ctx, inject) => {
   inject('sharedRefsMap', sharedMap);
 };
 
-/* harmony default export */ var plugins_context_3cf04427 = (contextPlugin);
+/* harmony default export */ var plugins_context_71118230 = (contextPlugin);
 // CONCATENATED MODULE: ./.nuxt/pwa/meta.utils.js
 function mergeMeta(to, from) {
   if (typeof to === 'function') {
@@ -22347,15 +22355,15 @@ var meta = __webpack_require__(100);
 
  // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
 
- // Source: ./nuxt.plugin.3d84ce67.js (mode: 'all')
+ // Source: ./nuxt.plugin.29152ebe.js (mode: 'all')
 
  // Source: ./composition-api/plugin.js (mode: 'all')
 
- // Source: ./plugins.logger.4cc80448.js (mode: 'all')
+ // Source: ./plugins.logger.3df2611f.js (mode: 'all')
 
- // Source: ./plugins.ssr.47a29738.js (mode: 'all')
+ // Source: ./plugins.ssr.62aa5eed.js (mode: 'all')
 
- // Source: ./plugins.context.3cf04427.js (mode: 'all')
+ // Source: ./plugins.context.71118230.js (mode: 'all')
 
  // Source: ./workbox.js (mode: 'client')
 
@@ -22426,10 +22434,70 @@ async function createApp(ssrContext, config = {}) {
       }, {
         "hid": "description",
         "name": "description",
-        "content": "Vue Storefront 2 template for Shopify."
+        "content": ""
       }, {
         "name": "generator",
         "content": "Vue Storefront 2"
+      }, {
+        "hid": "charset",
+        "charset": "utf-8"
+      }, {
+        "hid": "mobile-web-app-capable",
+        "name": "mobile-web-app-capable",
+        "content": "yes"
+      }, {
+        "hid": "apple-mobile-web-app-title",
+        "name": "apple-mobile-web-app-title",
+        "content": "VSF Next: Shopify APP"
+      }, {
+        "hid": "author",
+        "name": "author",
+        "content": "Aureate labs"
+      }, {
+        "hid": "og:type",
+        "name": "og:type",
+        "property": "og:type",
+        "content": "website"
+      }, {
+        "hid": "og:title",
+        "name": "og:title",
+        "property": "og:title",
+        "content": "VSF Next: Shopify APP"
+      }, {
+        "hid": "og:site_name",
+        "name": "og:site_name",
+        "property": "og:site_name",
+        "content": "VSF Next: Shopify APP"
+      }, {
+        "hid": "og:description",
+        "name": "og:description",
+        "property": "og:description",
+        "content": "This is the Shopify PWA app for VSF Next - Developed by Aureate labs"
+      }, {
+        "hid": "og:url",
+        "name": "og:url",
+        "property": "og:url",
+        "content": "shopify-pwa-beta.aureatelabs.com"
+      }, {
+        "hid": "og:image",
+        "name": "og:image",
+        "property": "og:image",
+        "content": "shopify-pwa-beta.aureatelabs.com\u002F_nuxt\u002Ficons\u002Ficon_512x512.03acdc.png"
+      }, {
+        "hid": "og:image:width",
+        "name": "og:image:width",
+        "property": "og:image:width",
+        "content": 512
+      }, {
+        "hid": "og:image:height",
+        "name": "og:image:height",
+        "property": "og:image:height",
+        "content": 512
+      }, {
+        "hid": "og:image:type",
+        "name": "og:image:type",
+        "property": "og:image:type",
+        "content": "image\u002Fpng"
       }],
       "link": [{
         "rel": "icon",
@@ -22448,9 +22516,25 @@ async function createApp(ssrContext, config = {}) {
         "href": "https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Raleway:300,400,400i,500,600,700|Roboto:300,300i,400,400i,500,700&display=swap",
         "media": "print",
         "onload": "this.media='all'"
+      }, {
+        "hid": "shortcut-icon",
+        "rel": "shortcut icon",
+        "href": "\u002Ficons\u002Fandroid-icon-48x48.png"
+      }, {
+        "hid": "apple-touch-icon",
+        "rel": "apple-touch-icon",
+        "href": "\u002F_nuxt\u002Ficons\u002Ficon_512x512.03acdc.png",
+        "sizes": "512x512"
+      }, {
+        "rel": "manifest",
+        "href": "\u002F_nuxt\u002Fmanifest.1ab16ab7.json",
+        "hid": "manifest"
       }],
       "style": [],
-      "script": []
+      "script": [],
+      "htmlAttrs": {
+        "lang": "en"
+      }
     },
     router,
     nuxt: {
@@ -22590,24 +22674,24 @@ async function createApp(ssrContext, config = {}) {
     await plugin_main(app.context, inject);
   }
 
-  if (typeof nuxt_plugin_3d84ce67 === 'function') {
-    await nuxt_plugin_3d84ce67(app.context, inject);
+  if (typeof nuxt_plugin_29152ebe === 'function') {
+    await nuxt_plugin_29152ebe(app.context, inject);
   }
 
   if (typeof composition_api_plugin === 'function') {
     await composition_api_plugin(app.context, inject);
   }
 
-  if (typeof plugins_logger_4cc80448 === 'function') {
-    await plugins_logger_4cc80448(app.context, inject);
+  if (typeof plugins_logger_3df2611f === 'function') {
+    await plugins_logger_3df2611f(app.context, inject);
   }
 
-  if (typeof plugins_ssr_47a29738 === 'function') {
-    await plugins_ssr_47a29738(app.context, inject);
+  if (typeof plugins_ssr_62aa5eed === 'function') {
+    await plugins_ssr_62aa5eed(app.context, inject);
   }
 
-  if (typeof plugins_context_3cf04427 === 'function') {
-    await plugins_context_3cf04427(app.context, inject);
+  if (typeof plugins_context_71118230 === 'function') {
+    await plugins_context_71118230(app.context, inject);
   }
 
   if (false) {}
@@ -23046,7 +23130,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "0f4b7f2c"
+  "5837c97a"
   
 )
 
@@ -23090,7 +23174,7 @@ var SfList_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "b81c2b34"
+  "6c183534"
   
 )
 
@@ -23317,7 +23401,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "4acb9912"
+  "b7cd9440"
   
 )
 
@@ -23469,7 +23553,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "615bf29a"
+  "16e26b30"
   
 )
 
@@ -23619,7 +23703,7 @@ var SfSelect_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "8d069e1c"
+  "1cc4e4c0"
   
 )
 
@@ -23733,7 +23817,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "52f79cd2"
+  "33ab16c0"
   
 )
 
@@ -23828,7 +23912,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "459c1627"
+  "0dc260f5"
   
 )
 
@@ -23930,7 +24014,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "2574c4e6"
+  "7d339434"
   
 )
 

@@ -250,7 +250,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "4e00b85c"
+  "657629a0"
   
 )
 
@@ -361,7 +361,7 @@ var SfTab_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "ae76cf2c"
+  "792a955c"
   
 )
 
@@ -461,7 +461,7 @@ var SfTabs_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfTabs_injectStyles,
   null,
-  "0040ee66"
+  "6f318d98"
   
 )
 
@@ -806,7 +806,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   "bf4970ae",
-  "bb29e9ca"
+  "7eb8dce6"
   
 )
 

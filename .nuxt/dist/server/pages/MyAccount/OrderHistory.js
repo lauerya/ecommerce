@@ -250,7 +250,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "4e00b85c"
+  "657629a0"
   
 )
 
@@ -361,7 +361,7 @@ var SfTab_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "ae76cf2c"
+  "792a955c"
   
 )
 
@@ -461,7 +461,7 @@ var SfTabs_component = Object(componentNormalizer["a" /* default */])(
   false,
   SfTabs_injectStyles,
   null,
-  "0040ee66"
+  "6f318d98"
   
 )
 
@@ -630,7 +630,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "3f13193f"
+  "13b018b1"
   
 )
 
@@ -668,7 +668,7 @@ var SfTableData_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "0df7cd15"
+  "660a883a"
   
 )
 
@@ -706,7 +706,7 @@ var SfTableHeader_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "50222490"
+  "3c1d3df4"
   
 )
 
@@ -753,7 +753,7 @@ var SfTableHeading_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "14924a32"
+  "2c02d159"
   
 )
 
@@ -815,7 +815,7 @@ var SfTable_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "179f66fe"
+  "6f5e364c"
   
 )
 
@@ -1048,7 +1048,7 @@ var OrderHistory_component = Object(componentNormalizer["a" /* default */])(
   false,
   OrderHistory_injectStyles,
   "fc23adb8",
-  "64a5dad0"
+  "bcdac234"
   
 )
 

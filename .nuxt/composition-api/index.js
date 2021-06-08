@@ -442,7 +442,7 @@ const globalPlugin = (context) => {
   };
 };
 
-const staticPath = "/Users/ryanlauer/Documents/GitHub/storefront/storefront/.nuxt/static-json";
+const staticPath = "/Users/ryanlauer/Documents/GitHub/storefront/.nuxt/static-json";
 const staticCache = {};
 function writeFile(key, value) {
   if (process.client || !process.static)

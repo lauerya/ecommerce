@@ -18,7 +18,7 @@ export const options = {
   defaultLocaleRouteNameSuffix: "default",
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "/Users/ryanlauer/Documents/GitHub/storefront/storefront/lang",
+  langDir: "/Users/ryanlauer/Documents/GitHub/storefront/lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"vsf-locale","cookieSecure":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,

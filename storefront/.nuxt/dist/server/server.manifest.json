@@ -1,0 +1,43 @@
+{
+  "entry": "server.js",
+  "files": {
+    "12.js": "12.js",
+    "13.js": "13.js",
+    "14.js": "14.js",
+    "15.js": "15.js",
+    "16.js": "16.js",
+    "17.js": "17.js",
+    "lang-de.js.js": "lang-de.js.js",
+    "pages/Category.js": "pages/Category.js",
+    "pages/MyAccount.js": "pages/MyAccount.js",
+    "pages/MyAccount/BillingDetails.js": "pages/MyAccount/BillingDetails.js",
+    "pages/MyAccount/LoyaltyCard.js": "pages/MyAccount/LoyaltyCard.js",
+    "pages/MyAccount/MyNewsletter.js": "pages/MyAccount/MyNewsletter.js",
+    "pages/MyAccount/MyProfile.js": "pages/MyAccount/MyProfile.js",
+    "pages/MyAccount/MyReviews.js": "pages/MyAccount/MyReviews.js",
+    "pages/MyAccount/OrderHistory.js": "pages/MyAccount/OrderHistory.js",
+    "pages/MyAccount/ShippingDetails.js": "pages/MyAccount/ShippingDetails.js",
+    "pages/Product.js": "pages/Product.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "12.js": "12.js.map",
+    "13.js": "13.js.map",
+    "14.js": "14.js.map",
+    "15.js": "15.js.map",
+    "16.js": "16.js.map",
+    "17.js": "17.js.map",
+    "lang-de.js.js": "lang-de.js.js.map",
+    "pages/Category.js": "pages/Category.js.map",
+    "pages/MyAccount.js": "pages/MyAccount.js.map",
+    "pages/MyAccount/BillingDetails.js": "pages/MyAccount/BillingDetails.js.map",
+    "pages/MyAccount/LoyaltyCard.js": "pages/MyAccount/LoyaltyCard.js.map",
+    "pages/MyAccount/MyNewsletter.js": "pages/MyAccount/MyNewsletter.js.map",
+    "pages/MyAccount/MyProfile.js": "pages/MyAccount/MyProfile.js.map",
+    "pages/MyAccount/MyReviews.js": "pages/MyAccount/MyReviews.js.map",
+    "pages/MyAccount/OrderHistory.js": "pages/MyAccount/OrderHistory.js.map",
+    "pages/MyAccount/ShippingDetails.js": "pages/MyAccount/ShippingDetails.js.map",
+    "pages/Product.js": "pages/Product.js.map",
+    "server.js": "server.js.map"
+  }
+}
